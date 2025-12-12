@@ -15,11 +15,11 @@
 
 ### 🚀 About Me  
 
-Aspiring Software Development Engineer passionate about building **full-stack applications**, exploring **AI & Data Science**, and solving real-world problems.
+Aspiring Software Development Engineer passionate about building **full-stack applications**, exploring **AI & Data Science**, and solving real-world problems.  
 
 Currently pursuing **B.Tech in AI & Data Science**, with hands-on experience in  
-**React**, **Express.js**, **Node.js**, and **Python**.  
-Completed projects in **full-stack development** and actively practicing **DSA** on **LeetCode** and **CodeChef**.
+**React**, **Node.js**, **Python**, and **Express.js**.  
+Completed projects in **AI/ML**, and actively practicing **DSA** on **LeetCode** and **CodeChef**.
 
 ---
 
@@ -52,13 +52,14 @@ Completed projects in **full-stack development** and actively practicing **DSA**
 ## 🏆 Coding Profiles
 
 ### 🚀 LeetCode  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Pradhakshini_p-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Pradhakshini_p/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pradhakshini_p-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pradhakshini_p/)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pradhakshini_p?theme=dark&ext=contest)  
 ![LeetCode Heatmap](https://leetcode-stats.vercel.app/api/heatmap?username=Pradhakshini_p)
 
 ### 🍫 CodeChef  
-<!-- CodeChef Badge -->
-[![CodeChef](https://img.shields.io/badge/CodeChef-pradhakshini40-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pradhakshini40)
+[![CodeChef](https://img.shields.io/badge/CodeChef-pradhakshini40-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pradhakshini40)  
+![CodeChef Rating](https://cp-logo.vercel.app/codechef/pradhakshini40)
+
 ---
 
 ## 📊 GitHub Stats
@@ -69,50 +70,54 @@ Completed projects in **full-stack development** and actively practicing **DSA**
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pradha-glitch&theme=react-dark&hide_border=true)](https://github.com/Pradha-glitch)
 
-<!-- GitHub Snake -->
 ![GitHub Snake](https://raw.githubusercontent.com/Pradha-glitch/Pradha-glitch/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🧿 Projects
 
-### **Interviewer | Virtual Interview Assistant**  
-Tech Used:  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-
-A virtual interview assistant that evaluates candidates using AI.
-
----
-
-### **LeavePortal | Automated Leave Management**  
-Tech Used:  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-
-An automated leave application portal for streamlined management.
-
----
-
-## 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pradha-glitch&theme=dracula&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📚 Currently Learning  
+### **1. AI Agent for Medical Diagnosis**  
+**Description:** AI assistant predicting diseases from symptoms with probability-based suggestions and a chat-style Python interface.  
+**Tech Used:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-ff4b5c?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-ff4b5c?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### **2. Financial Fraud Detection System**  
+**Description:** ML model to classify fraudulent transactions with feature engineering, SMOTE-based data balancing, and optimized accuracy >80%.  
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+---
+
+### **3. House Price Prediction**  
+**Description:** Regression model predicting property prices using area, location, and amenities. Performed EDA, feature scaling, outlier removal, and cross-validation for reliability.  
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-FF6F61?style=for-the-badge)
+
+---
+
+### **4. AI-Based Underwater Image Enhancement**  
+**Description:** Enhanced underwater images using AI-based image processing to improve clarity, color, and contrast for better visual quality.  
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge)
 
 ---
 
 ## 📬 Connect With Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhakshini68@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhakshini-p)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradha-glitch)
+
 
