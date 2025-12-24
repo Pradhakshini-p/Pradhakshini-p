@@ -1,66 +1,103 @@
-<h1 align="center">👋 Hi, I'm Pradhakshini P</h1>
-<h3 align="center">AI & Data Science Engineer | Full Stack Developer | DSA Enthusiast</h3>
-
+<!-- ================= PROFILE BANNER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;AI+%26+Data+Science+Student;Future+Software+Engineer;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1CB5E0,100:000046&height=180&section=header&text=Pradhakshini%20P&fontSize=48&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=75"/>
+</p>
+
+<!-- ================= NAME ANIMATION ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hello+👋;I'm+Pradhakshini+P;AI+%26+Data+Science+Undergraduate;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 📖 About Me
+## 🌱 About Me
+<img src="https://media.tenor.com/zJj9Z4ZpWmUAAAAd/code-typing.gif" width="85" align="right">
 
-🎓 B.Tech Artificial Intelligence & Data Science Student  
-💻 Passionate about Software Development, Machine Learning & Backend Systems  
-📊 Loves solving real-world problems using code  
-🚀 Currently building advanced AI & Full-Stack projects  
-🎯 Goal: Become a high-impact Software Development Engineer  
-
----
-
-## 🛠️ Skills
-
-**Languages:** Python, Java, C++  
-**Web:** HTML, CSS, JavaScript, React  
-**Backend:** Node.js, Express  
-**Database:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Linux, VS Code  
+🎓 Undergraduate in **Artificial Intelligence & Data Science**  
+💡 Passionate about **software engineering, backend development & machine learning**  
+📊 Skilled in transforming datasets into predictive insights  
+⚙️ Love building real-world applications & automation tools  
+🤝 Enjoy collaborative development and tech communities  
+🎯 Career goal: Become a **high-impact Software Development Engineer**
 
 ---
 
-## 🚀 Projects
-
-| Project | Description |
-|--------|------------|
-| AI Medical Diagnosis | Symptom based disease predictor |
-| Fraud Detection System | ML based fraud detection |
-| House Price Prediction | Regression ML model |
-| Underwater Image Enhancement | Deep learning image clarity system |
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Technical Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradha-glitch&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradha-glitch&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,express,mysql,mongodb,git,github,linux" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Problem Solving
 
 <p align="center">
-  <a href="mailto:pradhakshini68@gmail.com">📧 Gmail</a> |
-  <a href="https://www.linkedin.com/in/pradhakshini-p">LinkedIn</a> |
-  <a href="https://github.com/Pradha-glitch">GitHub</a>
+  <img src="https://leetcard.jacoblin.cool/Pradhakshini_p?theme=dark&font=Montserrat&ext=heatmap" />
 </p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 🚀 Signature Projects
+
+### 🔹 Smart Health Risk Predictor
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="65%" />
+</p>
+
+• ML-based health risk analyzer  
+• Real-time prediction engine  
+• Tech: Python, Pandas, ML  
+
+---
+
+### 🔹 Fraud Pattern Detection
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="65%" />
+</p>
+
+• Transaction risk scoring  
+• Balanced model training  
+• Tech: Python, Scikit-learn  
+
+---
+
+### 🔹 Smart To-Do Manager
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="65%" />
+</p>
+
+• Interactive task tracking web app  
+• LocalStorage persistence  
+• Tech: HTML, CSS, JavaScript  
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradha-glitch&show_icons=true&theme=react" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradha-glitch&theme=react" width="48%" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="mailto:pradhakshini68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Pradhakshini%20P-D14836?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/pradhakshini-p">
+    <img src="https://img.shields.io/badge/LinkedIn-Pradhakshini%20P-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000046,100:1CB5E0&height=120&section=footer"/>
+</p>
+
 
 
 
