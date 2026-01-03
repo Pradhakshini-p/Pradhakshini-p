@@ -50,14 +50,14 @@ AI model analyzing underwater footage to detect coral reef health and marine eco
 
 ---
 
-### 🏦 Fraud Detection System (ML)
+### 🎓 Online Course Platform (SkillSphere)
 <p align="center">
-  <a href="https://github.com/pradhakshini/fraud-detection-project-ml">
-    <img src="https://raw.githubusercontent.com/pradhakshini/Pradha-glitch/main/fraud_dectect.img.jpg" width="70%"/>
+  <a href="https://github.com/Pradhakshini-p/online-course-platform">
+    <img src="https://raw.githubusercontent.com/pradhakshini/Pradha-glitch/main/online_course_platform_banner.jpg" width="70%"/>
   </a>
 </p>
-ML system to detect fraudulent financial transactions using classification models and feature engineering.  
-`Tech:` Python • Scikit-Learn • Data Analysis  
+A full-stack online learning platform where users can browse, enroll, and manage courses with real-time UI and localStorage-based enrollment system.  
+`Tech:` HTML • CSS • JavaScript • Flask • MongoDB
 
 ---
 
