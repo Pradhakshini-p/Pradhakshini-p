@@ -83,7 +83,7 @@ A full-stack online learning platform where users can browse, enroll, and manage
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pradhakshini-p/"><img src="https://img.shields.io/badge/LinkedIn-Pradhakshini-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:pradhakshini40@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:pradhakshini68@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
